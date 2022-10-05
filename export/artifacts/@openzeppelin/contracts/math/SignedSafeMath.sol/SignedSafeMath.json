@@ -1,0 +1,37 @@
+{
+  "contractName": "SignedSafeMath",
+  "sourceName": "@openzeppelin/contracts/math/SignedSafeMath.sol",
+  "abi": [],
+  "bytecode": "0x60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212207e156e351eb04bec8fdbe8b7543aad96ea881ec3d7a4e9d28ac8a076f92f7d1364736f6c63430007060033",
+  "deployedBytecode": "0x73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212207e156e351eb04bec8fdbe8b7543aad96ea881ec3d7a4e9d28ac8a076f92f7d1364736f6c63430007060033",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "devdoc": {
+    "details": "Signed math operations with safety checks that revert on error.",
+    "kind": "dev",
+    "methods": {},
+    "title": "SignedSafeMath",
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  },
+  "evm": {
+    "gasEstimates": {
+      "creation": {
+        "codeDepositCost": "17200",
+        "executionCost": "97",
+        "totalCost": "17297"
+      },
+      "internal": {
+        "add(int256,int256)": "infinite",
+        "div(int256,int256)": "infinite",
+        "mul(int256,int256)": "infinite",
+        "sub(int256,int256)": "infinite"
+      }
+    },
+    "methodIdentifiers": {}
+  }
+}
